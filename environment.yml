@@ -6,6 +6,3 @@ dependencies:
   - xarray
   - matplotlib
   - cartopy
-  - datetime
-  - PIL
-  - pylab
