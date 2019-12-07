@@ -6,3 +6,4 @@ dependencies:
   - xarray
   - matplotlib
   - cartopy
+  - netcdf4
